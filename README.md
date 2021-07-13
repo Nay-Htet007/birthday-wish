@@ -8,6 +8,8 @@ $apt upgrade -y
 
 $git clone https://github.com/Nay-Htet007/birthday-wish
 
+$cd birthday-wish
+
 $chmod +x run.sh
 
 $bash run.sh
